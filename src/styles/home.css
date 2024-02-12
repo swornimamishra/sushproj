@@ -1,0 +1,12 @@
+img{
+    height: 251px;
+    width: 259px;
+    border-radius: 18%;
+    
+  }
+  
+  p{
+    border: 4px solid purple;
+    width: 700px;
+    color: black;
+  }
